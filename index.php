@@ -13,7 +13,6 @@
 </head>
 
 <body style="background-color:#babaca">
-    <?php include "header.php"?>
 
     <section class="container d-flex justify-content-center mt-5 mb-5" style="background-color:#FFFFFF" ;>
         <div class="row mt-5 mg-5">
